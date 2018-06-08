@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "QTSPIM_Simmulate",
+            "request": "launch",
+            "type" : "extensionHost",
+            "runtimeExecutable": "C:\\Program Files (x86)\\QtSpim\\QtSpim.exe",
+            "args": ["${file}"]
+        }
+    ],
+    "compounds": []
+}
